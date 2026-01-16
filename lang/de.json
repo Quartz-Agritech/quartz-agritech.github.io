@@ -41,10 +41,10 @@
   "product_4_text": "Chargenverfolgung vom Feld bis zum Markt für Qualität und Zertifizierung.",
 
   "team_title": "Unser Team",
-  "team_1_name": "Dr. Amina Kouyaté",
+  "team_1_name": "Ahossi Patrice Koua, Ph.D. (CEO)",
   "team_1_role": "Agronomin & Forschungsleiterin",
-  "team_2_name": "Jean-Marc Talla",
-  "team_2_role": "Spezialist für Lebensmittelverarbeitung",
+  "team_2_name": "Jean-Marc Brou",
+  "team_2_role": "Spezialist für Lebensmittelverarbeitung, Fachexperte",
   "team_3_name": "Sarah Mensah",
   "team_3_role": "Datenwissenschaftlerin",
 
@@ -72,8 +72,10 @@
   "contact_title": "Kontaktieren Sie uns",
   "contact_name": "Ihr Name",
   "contact_email": "Ihre E-Mail",
+  "contact_subject": "Betreff",
   "contact_message": "Ihre Nachricht",
   "contact_button": "Senden",
+  "contact_success": "Vielen Dank! Ihre Nachricht wurde erfolgreich gesendet.",
 
   "footer_title": "Datenbasierte Lösungen für Ihr Wachstum",
   "footer_search_placeholder": "Suchen…",

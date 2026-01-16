@@ -41,12 +41,12 @@
   "product_4_text": "Traçabilité des lots du champ au marché pour la qualité et la certification.",
 
   "team_title": "Notre Équipe",
-  "team_1_name": "Dr. Amina Kouyaté",
+  "team_1_name": "Ahossi Patrice Koua, Ph.D. (CEO)",
   "team_1_role": "Agronome & Responsable Recherche",
-  "team_2_name": "Jean-Marc Talla",
-  "team_2_role": "Spécialiste en Transformation Agroalimentaire",
+  "team_2_name": "Jean-Marc Brou",
+  "team_2_role": "Spécialiste en Transformation Agroalimentaire, Expert de Terrain",
   "team_3_name": "Sarah Mensah",
-  "team_3_role": "Scientifique des Données",
+  "team_3_role": "Analyste des Données",
 
   "blog_title": "Histoires du Terrain",
   "blog_1_title": "Comment les Données Transforment les Décisions Agricoles",
@@ -72,8 +72,10 @@
   "contact_title": "Nous Contacter",
   "contact_name": "Votre Nom",
   "contact_email": "Votre Email",
+  "contact_subject": "Sujet",
   "contact_message": "Votre Message",
   "contact_button": "Envoyer",
+  "contact_success": "Merci ! Votre message a été envoyé avec succès.",
 
   "footer_title": "Des Solutions Basées sur les Données pour Votre Croissance",
   "footer_search_placeholder": "Rechercher…",

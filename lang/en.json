@@ -72,10 +72,14 @@
   "contact_title": "Contact Us",
   "contact_name": "Your Name",
   "contact_email": "Your Email",
+  "contact_subject": "Subject",
   "contact_message": "Your Message",
   "contact_button": "Send Message",
+  "contact_success": "Thank you! Your message has been sent successfully.",
 
   "footer_title": "Data-Driven Solutions for Your Growth",
   "footer_search_placeholder": "Search…",
   "footer_search_button": "Search"
+  
+
 }
